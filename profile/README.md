@@ -59,12 +59,6 @@ A system that automatically locks/unlocks based on user proximity.
 
 ---
 
-### 📊 Focus Analyzer *(In Development)*
-Chrome extension that analyzes attention span and browsing behavior.  
-> Turning distraction into measurable insights.
-
----
-
 ## ⚡ Philosophy
 
 At OnesClub, we believe:
