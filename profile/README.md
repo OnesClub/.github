@@ -92,8 +92,8 @@ To evolve OnesClub into:
 
 ## 🤝 Connect
 
-- GitHub: https://github.com/Akarshjha03  
-- LinkedIn: https://www.linkedin.com/in/akarshjha03/  
+- GitHub: https://github.com/OnesClub  
+- LinkedIn: https://www.linkedin.com/in/onesclub
 
 ---
 
