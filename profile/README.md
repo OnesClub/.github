@@ -52,11 +52,6 @@ Privacy-first browser extension designed to block advanced tracking and fingerpr
 
 ---
 
-### 🧠 Skinity *(In Progress)*
-AI-powered face analysis app that evaluates skin health, tracks progress, and provides insights.  
-> Combining computer vision with everyday usability.
-
----
 
 ### 🔒 Proximity Lock System
 A system that automatically locks/unlocks based on user proximity.  
