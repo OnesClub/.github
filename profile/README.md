@@ -93,7 +93,7 @@ To evolve OnesClub into:
 ## 🤝 Connect
 
 - GitHub: https://github.com/OnesClub  
-- LinkedIn: https://www.linkedin.com/in/onesclub
+- LinkedIn: https://www.linkedin.com/company/onesclub
 
 ---
 
