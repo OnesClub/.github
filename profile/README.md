@@ -4,11 +4,13 @@
     alt="OnesClub Screenshot"
     width="900">
 </p>
-### Built by the Ones. For the Ones.
 
+<h3 align="center">Built by the Ones. For the Ones.</h3>
+
+<p align="center">
 OnesClub is an independent technology lab focused on building scalable software, AI systems, and developer-first products.
-
-We are a collective of builders who don’t just think — we execute and ship.
+We are a collective of builders who don’t just think, we execute and ship.
+</p>
 
 ---
 
