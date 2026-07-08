@@ -21,7 +21,7 @@
       <a href="https://peerlist.io/akarshjha03/project/proximity-lock-system" target="_blank">
         <img
           src="https://raw.githubusercontent.com/OnesClub/Assets-Branding/main/staff-pick-light1.png"
-          height="72"
+          height="100"
           alt="Peerlist Staff Pick Badge"
         />
       </a>
