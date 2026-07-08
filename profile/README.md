@@ -4,7 +4,23 @@
     alt="OnesClub Screenshot"
     width="900">
 </p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.producthunt.com/products/proximity-lock-system?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-proximity-lock-system-2-0" target="_blank">
+        <img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1038161&theme=light&period=daily" width="250" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://peerlist.io/akarshjha03/project/proximity-lock-system" target="_blank" rel="noreferrer">
+        <img
+          src="https://peerlist.io/api/v1/projects/embed/PRJHEOG9GNEA8RO9GCRKLNP9K9RJN6?showUpvote=false&theme=light"
+          height="72"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 <h3 align="center">Built by the Ones. For the Ones.</h3>
 
 <p align="center">
