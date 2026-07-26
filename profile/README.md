@@ -38,6 +38,8 @@ We are a collective of builders who don’t just think, we execute and ship.
 
 ---
 
+<h3 align="center">Our Products.</h3>
+
 ## 🚀 Our Mission
 
 To create a system where ideas turn into real, usable products — fast.
