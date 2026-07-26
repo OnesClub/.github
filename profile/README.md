@@ -40,6 +40,30 @@ We are a collective of builders who don’t just think, we execute and ship.
 
 <h3 align="center">Our Products.</h3>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.producthunt.com/products/proximity-lock-system?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_campaign=proximity-lock-system-2-0" target="_blank">
+        <img
+          src="https://github.com/Akarshjha03/ProximityLockSystem/blob/main/Images/Proximity_app_logo.png"
+          width="150"
+          alt="Product Hunt Badge"
+        />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://peerlist.io/akarshjha03/project/proximity-lock-system" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/OnesClub/Assets-Branding/main/staff-pick-light1.png"
+          height="120"
+          alt="Peerlist Staff Pick Badge"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Our Mission
 
 To create a system where ideas turn into real, usable products — fast.
