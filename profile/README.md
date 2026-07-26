@@ -53,7 +53,7 @@ We are a collective of builders who don’t just think, we execute and ship.
     </td>
     <td width="20"></td>
     <td align="center">
-      <a href="https://peerlist.io/akarshjha03/project/proximity-lock-system" target="_blank">
+      <a href="[https://peerlist.io/akarshjha03/project/proximity-lock-system" target="_blank](https://chromewebstore.google.com/detail/stealthhound-%E2%80%93-tracker-bl/kfpjimcgffpfjkdpclfciknibimaodmj?authuser=0&hl=en)">
         <img
           src="https://github.com/Akarshjha03/StealthHound-Assets/blob/main/icon128%20(1).png"
           height="150"
