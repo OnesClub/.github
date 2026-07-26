@@ -46,7 +46,7 @@ We are a collective of builders who don’t just think, we execute and ship.
       <a href="https://github.com/Akarshjha03/ProximityLockSystem/tree/main">
         <img
           src="https://github.com/Akarshjha03/ProximityLockSystem/blob/main/Images/Proximity_app_logo.png"
-          width="150"
+          width="130"
           alt="Product Hunt Badge"
         />
       </a>
@@ -55,8 +55,8 @@ We are a collective of builders who don’t just think, we execute and ship.
     <td align="center">
       <a href="https://peerlist.io/akarshjha03/project/proximity-lock-system" target="_blank">
         <img
-          src="https://raw.githubusercontent.com/OnesClub/Assets-Branding/main/staff-pick-light1.png"
-          height="120"
+          src="https://github.com/Akarshjha03/StealthHound-Assets/blob/main/icon128%20(1).png"
+          height="150"
           alt="Peerlist Staff Pick Badge"
         />
       </a>
