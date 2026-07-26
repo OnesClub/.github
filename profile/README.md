@@ -43,7 +43,7 @@ We are a collective of builders who don’t just think, we execute and ship.
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.producthunt.com/products/proximity-lock-system?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_campaign=proximity-lock-system-2-0" target="_blank">
+      <a href="https://github.com/Akarshjha03/ProximityLockSystem/tree/main">
         <img
           src="https://github.com/Akarshjha03/ProximityLockSystem/blob/main/Images/Proximity_app_logo.png"
           width="150"
