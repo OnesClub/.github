@@ -45,7 +45,7 @@ We are a collective of builders who don’t just think, we execute and ship.
     <td align="center">
       <a href="https://github.com/Akarshjha03/ProximityLockSystem/tree/main">
         <img
-          src="https://github.com/Akarshjha03/ProximityLockSystem/blob/main/Images/Proximity_app_logo.png"
+          src="https://github.com/Akarshjha03/ProximityLockSystem/blob/main/assets/Proximity_app_logo.png"
           width="130"
           alt="Product Hunt Badge"
         />
