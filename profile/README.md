@@ -45,24 +45,36 @@ We are a collective of builders who don’t just think, we execute and ship.
     <td align="center">
       <a href="https://github.com/Akarshjha03/ProximityLockSystem/tree/main">
         <img
-          src="https://github.com/Akarshjha03/ProximityLockSystem/blob/main/assets/Proximity_app_logo.png"
+          src="https://github.com/Akarshjha03/ProximityLockSystem/blob/main/assets/Proximity_app_logo.png?raw=true"
           width="130"
-          alt="Product Hunt Badge"
+          alt="Proximity Lock System"
         />
       </a>
     </td>
     <td width="20"></td>
     <td align="center">
-      <a href="[https://peerlist.io/akarshjha03/project/proximity-lock-system" target="_blank](https://chromewebstore.google.com/detail/stealthhound-%E2%80%93-tracker-bl/kfpjimcgffpfjkdpclfciknibimaodmj?authuser=0&hl=en)">
+      <a href="https://chromewebstore.google.com/detail/stealthhound-%E2%80%93-tracker-bl/kfpjimcgffpfjkdpclfciknibimaodmj?authuser=0&hl=en">
         <img
-          src="https://github.com/Akarshjha03/StealthHound-Assets/blob/main/icon128%20(1).png"
-          height="150"
-          alt="Peerlist Staff Pick Badge"
+          src="https://github.com/Akarshjha03/StealthHound-Assets/blob/main/icon128%20(1).png?raw=true"
+          width="130"
+          alt="StealthHound"
+        />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://github.com/Akarshjha03/PocketProjects">
+        <img
+          src="https://github.com/Akarshjha03/PocketProjects/blob/main/Noto%20App%20icon.png?raw=true"
+          width="130"
+          alt="Noto"
         />
       </a>
     </td>
   </tr>
 </table>
+
+
 
 ## 🚀 Our Mission
 
